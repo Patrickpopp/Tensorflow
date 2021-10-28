@@ -1,0 +1,28 @@
+item {
+ id: 1
+ name: 'Boat_2_double'
+}
+item {
+ id: 2
+ name: 'Boat_2_singel'
+}
+item {
+ id: 3
+ name: 'Boat_1'
+}
+item {
+ id: 4
+ name: 'Boat_4_1_double'
+}
+item {
+ id: 5
+ name: 'Boat_4_0_double'
+}
+item {
+ id: 6
+ name: 'Boat_4_0_singel'
+}
+item {
+ id: 7
+ name: 'Unknown'
+}
